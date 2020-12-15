@@ -1,0 +1,15 @@
+.card-img, .card-img-top {
+  border-top-left-radius: calc(.25rem - 1px);
+  border-top-right-radius: calc(.25rem - 1px);
+  height: 167px;
+}
+.row-1 {
+  display: flex;
+  flex-wrap: wrap;
+ 
+background-color: aliceblue;
+}
+div.row{
+  margin-top: 17px;
+  
+}
